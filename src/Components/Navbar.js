@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = () => {
     return (
         <div className="fw7">
-        <nav className="navbar bg-warning justify-content-center navbar-light">
+        <nav className="navbar bg-warning justify-content-center navbar-dark">
 		    <div className="f4 flex items-center">
                 <img    
                     alt="maplelogo" 

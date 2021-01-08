@@ -1,0 +1,122 @@
+[
+	{
+		"id": 0,
+		"title": "PD20",
+		"type": "DI",
+		"image": "/images/PD20.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 20,
+		"bossAtk": 0,
+		"critRate": 0,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 1,
+		"title": "CR20",
+		"type": "CR",
+		"image": "/images/CR20.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 0,
+		"bossAtk": 0,
+		"critRate": 20,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 2,
+		"title": "BA20",
+		"type": "BA",
+		"image": "/images/BA20.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 0,
+		"bossAtk": 20,
+		"critRate": 0,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 3,
+		"title": "PA30",
+		"type": "AI",
+		"image": "/images/PA30.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 30,
+		"bossAtk": 0,
+		"critRate": 0,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 4,
+		"title": "PD30",
+		"type": "DI",
+		"image": "/images/PD30.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 30,
+		"bossAtk": 0,
+		"critRate": 0,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 5,
+		"title": "CR30",
+		"type": "CR",
+		"image": "/images/CR30.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 0,
+		"bossAtk": 0,
+		"critRate": 30,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 6,
+		"title": "BA30",
+		"type": "BA",
+		"image": "/images/BA30.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 0,
+		"bossAtk": 30,
+		"critRate": 0,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 7,
+		"title": "CD30",
+		"type": "CD",
+		"image": "/images/CD30.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 0,
+		"bossAtk": 0,
+		"critRate": 0,
+        "critDmg": 30,
+        "check": false
+	},
+	{
+		"id": 8,
+		"title": "BA50",
+		"type": "BA",
+		"image": "/images/BA50.png",
+		"atkIncrease": 0,
+		"dmgIncrease": 0,
+		"bossAtk": 50,
+		"critRate": 0,
+        "critDmg": 0,
+        "check": false
+	},
+	{
+		"id": 9,
+		"title": "PA50",
+		"type": "AI",
+		"image": "/images/PA50.png",
+		"atkIncrease": 50,
+		"dmgIncrease": 0,
+		"bossAtk": 0,
+		"critRate": 0,
+        "critDmg": 0,
+        "check": false
+	}
+]
